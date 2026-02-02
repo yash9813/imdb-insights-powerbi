@@ -31,6 +31,6 @@ However, a complete screen recording of the working dashboard is available as a 
 
 You can watch the full dashboard demonstration here:
 
-https://github.com/yash9813/imdb-insights-powerbi/blob/main/YOUR_VIDEO_NAME.mp4
+https://github.com/yash9813/imdb-insights-powerbi/raw/refs/heads/main/IMDB-Insights.mp4
 
 
